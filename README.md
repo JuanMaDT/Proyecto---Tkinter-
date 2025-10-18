@@ -1,6 +1,7 @@
 # Proyecto---Tkinter-
 Aplicación de escritorio desarrollada en Python con interfaz gráfica Tkinter que permite procesar y transformar imágenes digitales aplicando múltiples operaciones de procesamiento de imágenes.<br>
-Integrantes<br>
+
+# Integrantes<br>
 
 Juan Manuel Diaz Torres<br>
 Lina Maria Calvo Castro 
