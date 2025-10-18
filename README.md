@@ -6,8 +6,8 @@ Juan Manuel Diaz Torres
 Lina Maria Calvo Castro 
 
 # Librerias requeridas: 
-pip install numpy
-pip install pillow
+pip install numpy <br> 
+pip install pillow <br>
 pip install matplotlib 
 
 # FUNCIONES IMPLEMENTADAS 
