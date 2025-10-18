@@ -12,17 +12,17 @@ pip install matplotlib
 
 # FUNCIONES IMPLEMENTADAS 
 # 1. BRILLO 
-Ubicación: Slider "Brillo"
-Función: Ajusta el brillo de toda la imagen
-Rango: 0.5 (oscuro) a 2.0 (muy brillante)
-Uso: Desliza el control para ver cambios en tiempo real
+Ubicación: Slider "Brillo".
+Función: Ajusta el brillo de toda la imagen.
+Rango: 0.5 (oscuro) a 2.0 (muy brillante).
+Uso: Desliza el control para ver cambios en tiempo real.
 
 # 2. BRILLO POR CANAL RGB
   Ubicación: Checkboxes R, G, B en "Canales RGB"
   Función: Activa/desactiva canales de color individualmente
   Uso: Desmarca un checkbox para eliminar ese color de la imagen
 
-#3. CONTRASTE LOGARITMICO
+# 3. CONTRASTE LOGARITMICO
   Ubicación: Botón "Contraste Log"
   Función: Mejora el contraste en zonas oscuras
   Uso: Útil para realzar detalles en imágenes subexpuestas
