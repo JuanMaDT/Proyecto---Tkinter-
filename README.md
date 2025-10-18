@@ -83,7 +83,8 @@ Uso: Desliza el control para ver cambios en tiempo real
   Uso: Igual que fusión simple, pero mejora el contraste previo<br>
   Ventaja: Mejor resultado en imágenes con diferente iluminación
 
-# 11. Ubicación: Botones "Solo R", "Solo G", "Solo B"
+# 11. Extracción de Capas RGB
+  Ubicación: Botones "Solo R", "Solo G", "Solo B"<br>
   Función: Muestra únicamente un canal de color<br>
   Uso:<br>
   "Solo R" → Muestra solo componente rojo<br>
