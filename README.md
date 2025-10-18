@@ -10,9 +10,9 @@ pip install numpy
 pip install pillow
 pip install matplotlib 
 
-proyecto/
-│
-├── Interfaz_proyecto.py          # Interfaz gráfica principal
-├── Funciones_proyecto.py         # Librería con todas las transformaciones
-├── README.md                      # Este archivo
-└── imagenes_prueba/              # (Opcional) Carpeta con imágenes de ejemplo
+FUNCIONES IMPLEMENTADAS 
+1.# Brillo---Global -
+Ubicación: Slider "Brillo"
+Función: Ajusta el brillo de toda la imagen
+Rango: 0.5 (oscuro) a 2.0 (muy brillante)
+Uso: Desliza el control para ver cambios en tiempo real
