@@ -118,7 +118,7 @@ Uso: Desliza el control para ver cambios en tiempo real
   Valores altos → más pixeles negros<br>
   Útil para separar objetos del fondo
 
-#EJEMPLOS DE USO <br>
+# EJEMPLOS DE USO <br>
 # 1. Fusion de imagenes. <br>
 # PASOS <br>
   1. Abrir la primera imagen
