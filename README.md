@@ -136,7 +136,7 @@ Uso: Desliza el control para ver cambios en tiempo real
   2. Presionar el boton "Escala de grises"
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/5afe396c-c581-4fc2-b9a3-c67e1abe2205" />
 
-# 3. Imagen negativa s. <br>
+# 3. Imagen negativas. <br>
 # PASOS <br>
   1. Abrir la imagen
   2. Presionar el boton "Negativo"
