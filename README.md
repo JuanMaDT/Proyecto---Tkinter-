@@ -1,6 +1,11 @@
 # Proyecto---Tkinter-
 Aplicación de escritorio desarrollada en Python con interfaz gráfica Tkinter que permite procesar y transformar imágenes digitales aplicando múltiples operaciones de procesamiento de imágenes.<br>
 
+# Descripcion <br>
+## 🚀 Cómo Usar el Programa
+
+Para iniciar el editor, ejecuta el archivo `Proyecto.py` con Python. Una vez abierta la ventana, haz clic en **"Cargar Imagen"** para seleccionar una foto desde tu computador. La imagen aparecerá en el centro de la pantalla lista para ser editada. Utiliza los botones superiores para aplicar efectos instantáneos (negativo, escala de grises, contraste), o ajusta los sliders en tiempo real para controlar brillo, rotación, zoom y binarización. Los checkboxes RGB te permiten activar/desactivar canales de color, mientras que los botones de extracción muestran cada canal por separado. Para fusionar dos imágenes, carga la primera y luego usa el botón **"Fusionar"** o **"Fusionar Ecualizadas"** para seleccionar la segunda. Puedes ver el histograma de distribución de colores con **"Ver Histograma"** y en cualquier momento usar **"Restaurar"** para volver a la imagen original. Cuando estés satisfecho con el resultado, guarda tu trabajo con el botón **"Guardar Imagen"** seleccionando el formato deseado (PNG, JPEG, BMP o TIFF). <br>
+
 # Integrantes<br>
 
 Juan Manuel Diaz Torres<br>
