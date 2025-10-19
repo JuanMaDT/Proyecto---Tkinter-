@@ -118,4 +118,12 @@ Uso: Desliza el control para ver cambios en tiempo real
   Valores altos → más pixeles negros<br>
   Útil para separar objetos del fondo
 
+#EJEMPLOS DE USO <br>
+# 1. Fusion de imagenes. <br>
+# PASOS <br>
+  1. Abrir la primera imagen
+  2. Presionar el boton fusionar imagenes
+  3. Seleccionar la segunda imagen 
+<img width="996" height="711" alt="image" src="https://github.com/user-attachments/assets/88017a9d-b6f1-40b3-8e53-2d357c8f00d5" />
+  
    
