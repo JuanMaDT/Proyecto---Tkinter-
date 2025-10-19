@@ -122,19 +122,31 @@ Uso: Desliza el control para ver cambios en tiempo real
 # 1. Fusion de imagenes. <br>
 # PASOS <br>
   1. Abrir la primera imagen
-  2. Presionar el boton fusionar imagenes
+  2. Presionar el boton "Fusionar imagenes"
   3. Seleccionar la segunda imagen 
-<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/88017a9d-b6f1-40b3-8e53-2d357c8f00d5" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/88017a9d-b6f1-40b3-8e53-2d357c8f00d5" />
   
 # 2. Escala de grises. <br>
 # PASOS <br>
   1. Abrir la imagen
-  2. Presionar el boton Escala de grises
-<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/5afe396c-c581-4fc2-b9a3-c67e1abe2205" />
+  2. Presionar el boton "Escala de grises"
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/5afe396c-c581-4fc2-b9a3-c67e1abe2205" />
 
-# 3. Fusion de imagenes. <br>
+# 3. Imagen negativa s. <br>
 # PASOS <br>
-# 4. Fusion de imagenes. <br>
+  1. Abrir la imagen
+  2. Presionar el boton "Negativo"
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/ac053397-a6d4-4473-9861-eb8b43507324" />
+
+# 4. Rotacion de imagen. <br>
 # PASOS <br>
-# 5. Fusion de imagenes. <br>
+  1. Abrir la imagen
+  2. Ajustar el Slider "Rotacion"
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/aea83817-c749-443d-bc7e-2e7cb25263f7" />
+
+# 5. Extraccion de canales. <br>
 # PASOS <br>
+  1. Abrir la imagen
+  2. En la seccion Extraer Canal presionar el boton de acuerdo al color
+     Ejemplo: Solo R
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/4e0fbce1-4192-412b-9733-2dc9fe2122e5" />
