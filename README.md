@@ -124,6 +124,17 @@ Uso: Desliza el control para ver cambios en tiempo real
   1. Abrir la primera imagen
   2. Presionar el boton fusionar imagenes
   3. Seleccionar la segunda imagen 
-<img width="996" height="711" alt="image" src="https://github.com/user-attachments/assets/88017a9d-b6f1-40b3-8e53-2d357c8f00d5" />
+<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/88017a9d-b6f1-40b3-8e53-2d357c8f00d5" />
   
-   
+# 2. Escala de grises. <br>
+# PASOS <br>
+  1. Abrir la imagen
+  2. Presionar el boton Escala de grises
+<img width="400" height="350" alt="image" src="https://github.com/user-attachments/assets/5afe396c-c581-4fc2-b9a3-c67e1abe2205" />
+
+# 3. Fusion de imagenes. <br>
+# PASOS <br>
+# 4. Fusion de imagenes. <br>
+# PASOS <br>
+# 5. Fusion de imagenes. <br>
+# PASOS <br>
