@@ -8,6 +8,7 @@ Para iniciar el editor, ejecuta el archivo `Proyecto.py` con Python. Una vez abi
 # Integrantes<br>
 
 Juan Manuel Diaz Torres<br>
+Lina Maria Calvo Castro <br>
 
 # Librerias requeridas: 
 pip install numpy <br> 
